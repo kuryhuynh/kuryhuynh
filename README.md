@@ -6,13 +6,7 @@
 
 ## About Me
 
-Building open-source, high-performance Minecraft server software and plugins.  
-Specialized in packet-level networking and packet interception.
-
-### Focus & Specialization
-
-- Packet manipulation, custom network protocol decoders, and byte-level inspection.
-- High-concurrency multithreaded server architectures (Folia region-threading and Paper).
+Building open-source, high-performance Minecraft server software and plugins.
 
 <br>
 
