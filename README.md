@@ -16,24 +16,6 @@ Specialized in packet-level networking and packet interception.
 
 <br>
 
-## Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_21-181825?style=for-the-badge&logo=openjdk&logoColor=a6e3a1" />
-  <img src="https://img.shields.io/badge/Kotlin-181825?style=for-the-badge&logo=kotlin&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/PaperMC-181825?style=for-the-badge&logo=curseforge&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Folia-181825?style=for-the-badge&logo=purpur&logoColor=f38ba8" />
-  <img src="https://img.shields.io/badge/PacketEvents-181825?style=for-the-badge&logo=packet&logoColor=a6e3a1" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-181825?style=for-the-badge&logo=intellijidea&logoColor=fab387" />
-  <img src="https://img.shields.io/badge/Python-181825?style=for-the-badge&logo=python&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Gradle-181825?style=for-the-badge&logo=gradle&logoColor=94e2d5" />
-  <img src="https://img.shields.io/badge/Maven-181825?style=for-the-badge&logo=apachemaven&logoColor=f9e2af" />
-  <img src="https://img.shields.io/badge/Git-181825?style=for-the-badge&logo=git&logoColor=f38ba8" />
-  <img src="https://img.shields.io/badge/JavaScript-181825?style=for-the-badge&logo=javascript&logoColor=f9e2af" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
