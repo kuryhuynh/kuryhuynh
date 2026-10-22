@@ -39,15 +39,6 @@ Specialized in packet-level networking and packet interception.
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
 </p>
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuryhuynh/kuryhuynh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuryhuynh/kuryhuynh/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kuryhuynh/kuryhuynh/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br>
 
 ## Contact
 
