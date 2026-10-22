@@ -14,17 +14,6 @@ Specialized in packet-level networking and packet interception.
 - Packet manipulation, custom network protocol decoders, and byte-level inspection.
 - High-concurrency multithreaded server architectures (Folia region-threading and Paper).
 
-### Workstation
-
-| Hardware | Specification |
-| :--- | :--- |
-| **CPU** | Intel Core i5-13420H |
-| **GPU** | NVIDIA GeForce RTX 2050 |
-| **RAM** | 16GB DDR4 |
-| **Storage** | 1TB NVMe M.2 SSD |
-| **OS** | Windows 11 |
-| **Primary IDE** | IntelliJ IDEA Ultimate |
-
 <br>
 
 ## Tech Stack & Tools
