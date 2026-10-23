@@ -12,7 +12,7 @@ Building open-source, high-performance Minecraft server software and plugins.
 ## Contact
 
 <p align="left">
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/1434546249650143302">
     <img src="https://img.shields.io/badge/Discord-kuryu__mel-181825?style=for-the-badge&logo=discord&logoColor=89b4fa" />
   </a>
 </p>
