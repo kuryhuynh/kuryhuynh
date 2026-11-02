@@ -9,7 +9,7 @@
 Building open-source, high-performance Minecraft server software and plugins.
 <br>
 
-## Contac
+## Contact
 
 <p align="left">
   <a href="https://discord.com/users/1434546249650143302">
