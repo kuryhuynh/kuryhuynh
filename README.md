@@ -4,7 +4,7 @@
 
 <br>
 
-## About Me
+## About 
 
 Building open-source, high-performance Minecraft server software and plugins.
 <br>
